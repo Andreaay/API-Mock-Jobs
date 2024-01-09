@@ -1,0 +1,11 @@
+
+Index:
+http://localhost:3001/
+
+Static files:
+Serving ./public directory if it exists
+
+Endpoints:
+http://localhost:3001/jobs
+
+
