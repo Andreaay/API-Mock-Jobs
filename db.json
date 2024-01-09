@@ -282,5 +282,9 @@
                 "Ability to lead and manage HR functions"
             ]
         }
-    ]
+    ],
+    "users": [
+        { "id": 1, "username": "employer1", "password": "$2b$10$MaZp...", "role": "employer" },
+        { "id": 2, "username": "candidate1", "password": "$2b$10$yqoY...", "role": "candidate" }
+      ]
 }
